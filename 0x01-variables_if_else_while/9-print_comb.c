@@ -3,7 +3,7 @@
 /**
  * main - prints all possible combos of single-digit numbers
  *
- * Retuen: 0 (if code runs successfully)
+ * Return: 0 (if code runs successfully)
  */
 
 int main(void)
